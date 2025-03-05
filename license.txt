@@ -1,4 +1,4 @@
-WordPress - Web publishing software
+WordPress - Web publishing software =- edited in github
 
 Copyright 2011-2024 by the contributors
 
